@@ -350,3 +350,17 @@ padding-top:100px;
     
     padding:3rem  ;
 }
+/* footer*/
+
+.footer .social a{
+    color:#fff;
+}
+
+.bg-dark{
+    background-color:black;
+    color:#fff;
+}
+
+.footer .container nav ul li a {
+    color:#fff;
+}
