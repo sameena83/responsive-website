@@ -262,6 +262,14 @@ padding-top:100px;
     grid-template-columns:1fr 1fr;
 
 }
+/* Languages*/
+.languages .flex{
+    flex-wrap:wrap ;
+}
+.languages .card{
+    text-align: center;
+    margin: 18px 10px 40px;
+}
 .btn-dark
 {
     background-color:black;
